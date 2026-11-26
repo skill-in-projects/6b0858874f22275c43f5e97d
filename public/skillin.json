@@ -1,0 +1,8 @@
+{
+  "name": "Cat FOMO Meter",
+  "brief": "A playful app that shows how much a cat is missing out on right now. Pick a cat, move the dial or shake it, and watch its mood change. Owners can also chat with Dr. Whiskers, an AI cat psychologist, for friendly advice about their cat.",
+  "pages": [
+    {"name": "Meter", "path": "/"},
+    {"name": "Cat Psychologist", "path": "/#/psychologist"}
+  ]
+}
