@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <rect width="128" height="128" rx="28" fill="#111827"/>
+  <text x="64" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#f59e0b">CFM</text>
+  <path d="M24 92 A40 40 0 0 1 104 92" fill="none" stroke="#f59e0b" stroke-width="12" stroke-linecap="round"/>
+  <line x1="64" y1="92" x2="92" y2="56" stroke="#ffffff" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="64" cy="92" r="8" fill="#ffffff"/>
+</svg>
